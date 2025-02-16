@@ -1,0 +1,84 @@
+body{
+    padding: 40px;     
+}
+.section-one{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.section-one__title{
+    font-size: 30px;
+}
+
+.section-one__desc{
+    color: darkgray;
+}
+
+.section-two,.section-three,.section-four,.section-five{
+    color: black;
+    background-color: white;
+    display: inline-block;
+    border: solid black 2px;
+}
+
+.section-two__img,.section-three__img,.section-four__img,.section-five__img{
+    height: 300px;
+    width: 250px;
+}
+
+.section-two__title,.section-three__title,.section-four__title,.section-five__title{
+    text-align: center;
+}
+
+.section-two__desc,.section-three__desc,.section-four__desc,.section-five__desc{
+    text-align: center;
+}
+
+.section-two__button,.section-three__button,.section-four__button,.section-five__button{
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding-bottom: 5px;
+}
+
+.container{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.contact__title{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.button{
+    text-align: center;
+    display: inline-block;
+    width: 500px;
+    background-color: yellow;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+.form{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.center-container{
+    text-align: center;
+}
+table{
+    display: inline-block;
+}
